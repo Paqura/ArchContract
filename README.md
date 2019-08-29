@@ -1,2 +1,0 @@
-# ArchContract
-Created with CodeSandbox
